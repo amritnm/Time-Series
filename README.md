@@ -1,3 +1,2 @@
-# first
-just another repository
-what can be said
+# Projects in Time Series Analysis
+Different Pieces.
