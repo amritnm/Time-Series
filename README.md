@@ -4,6 +4,6 @@
 
 ## 2. Trying out Auto Arima to arrive at a viable time series model for NIFTY data in Python
 <b>library used</b> - pmdarima \
-method used - auto_arima \
-source used - https://towardsdatascience.com/time-series-forecasting-using-auto-arima-in-python-bb83e49210cd \
-Result - Not useful
+<b>method used</b> - auto_arima \
+<b>source used</b> - https://towardsdatascience.com/time-series-forecasting-using-auto-arima-in-python-bb83e49210cd \
+<b>Result</b> - Not useful
